@@ -1,0 +1,56 @@
+table,
+td {
+  border: solid;
+  background-color: white;
+  text-align: center;
+}
+td {
+  width: 3vw;
+  height: 3vw;
+  padding: 2px;
+  border: 2px solid rgb(104, 97, 97);
+}
+body {
+  background-color: #0060a6;
+  font-family: monospace;
+  text-align: center;
+  font-family: cursive;
+}
+
+.x {
+  background-color: #0060a6;
+  color: white;
+  border: black solid 2px;
+  font-weight: bold;
+}
+.first_row,
+.first_col {
+  background-color: orangered;
+  color: white;
+  border: black solid 2px;
+  font-weight: bold;
+}
+
+.square {
+  background-color: #0060a6;
+  color: white;
+  border: black solid 2px;
+  font-weight: bold;
+}
+
+table {
+  margin: 50px auto;
+  border: white;
+}
+
+h1 {
+  color: white;
+}
+
+.controller {
+  background-color: white;
+  display: inline-block;
+  padding: 5px;
+  border-radius: 5px;
+  font-weight: bolder;
+}
